@@ -1,0 +1,35 @@
+{
+  "name": "git-not",
+  "version": "1.0.0",
+  "description": "Create useful .gitignore files for your project by selecting from 500 Operating System, IDE, and Programming Language .gitignore templates",
+  "main": "src/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonicb/git-not.git"
+  },
+  "keywords": [
+    "gitignore",
+    ".gitignore",
+    "git",
+    "ignore",
+    "file",
+    "create",
+    "make",
+    "generate",
+    "build",
+    "automatic",
+    "programmatic",
+    "command",
+    "line",
+    "cli"
+  ],
+  "author": "Yoni Calsin <helloyonicb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yonicb/git-not/issues"
+  },
+  "homepage": "https://github.com/yonicb/git-not#readme"
+}
